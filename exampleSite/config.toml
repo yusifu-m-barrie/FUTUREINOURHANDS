@@ -1,10 +1,10 @@
 baseURL = "http://examplesite.org"
 disableLanguages = []
-disqusShortname = "educenter"
-paginate = "6"
+disqusShortname = "future"
+paginate = "7"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Future In Our Hands"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -19,21 +19,10 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-name = "projects"
-weight = 5
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 4
+[menu.main]
+URL = "course"
+name = "course"
+weight = 2
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
