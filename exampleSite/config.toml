@@ -19,18 +19,10 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 5
+[menu.main]
+URL = "course"
+name = "courses"
+weight = 2
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
