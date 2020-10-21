@@ -31,8 +31,8 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
-      link: contact
+      label: Our Projects
+      link: project
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
