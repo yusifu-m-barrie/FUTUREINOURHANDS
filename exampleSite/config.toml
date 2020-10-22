@@ -60,27 +60,27 @@ name = "project"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "project"
   name = "teacher"
   URL = "teacher"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "project"
   name = "notice"
   URL = "notice"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "project"
   name = "event"
   URL = "event"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "project"
   name = "scholarship"
   URL = "scholarship"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "project"
   name = "research"
   URL = "research"
   
