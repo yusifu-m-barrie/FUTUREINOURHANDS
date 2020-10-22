@@ -54,45 +54,16 @@ name = "course"
 URL = "course"
 weight = 2
 
-[[menu.main]]
-weight = 3
-name = "project"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "project"
-  name = "teacher"
-  URL = "teacher"
-
-  [[menu.main]]
-  parent = "project"
-  name = "notice"
-  URL = "notice"
-
-  [[menu.main]]
-  parent = "project"
-  name = "event"
-  URL = "event"
-
-  [[menu.main]]
-  parent = "project"
-  name = "scholarship"
-  URL = "scholarship"
-
-  [[menu.main]]
-  parent = "project"
-  name = "research"
-  URL = "research"
   
 [[menu.main]]
 name = "blog"
 URL = "blog"
-weight = 4
+weight = 3
   
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 4
 
 
 # footer menu
